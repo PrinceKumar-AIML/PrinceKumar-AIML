@@ -8,7 +8,7 @@
 
 ### 📬 Connect With Me
 - **Email:** `your-new-gmail@gmail.com`
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** www.linkedin.com/in/princekumaraiml
 - **GitHub:** [github.com/your-username](https://github.com)
 
 ---
