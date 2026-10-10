@@ -7,9 +7,9 @@
 ---
 
 ### 📬 Connect With Me
-- **Email:** `your-new-gmail@gmail.com`
+- **Email:** PrinceKumarCSEAIML@gmail.com
 - **LinkedIn:** www.linkedin.com/in/princekumaraiml
-- **GitHub:** [github.com/your-username](https://github.com)
+- **GitHub:** https://github.com/PrinceKumar-AIML
 
 ---
 
